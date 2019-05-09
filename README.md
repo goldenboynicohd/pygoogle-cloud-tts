@@ -4,7 +4,7 @@ My beginner attempt to use Google's Cloud TTS to create audiobooks
 # Why upload this noob script?
 I want to learn Git, share what I made even though it's not pythonic, not well made.
 But it does the job.
-I just tested it again and the only thing I had to change is add a token.
+I just tested it again after a couple of months and the only thing I had to change is add a token.
 
 
 # Requirements:
@@ -53,3 +53,5 @@ I discussed with a very nice developer (PNDurette, who made gtts_cli) and he gav
 - Use wait in the subprocess instead of sleep
 - Use Glob to iterate the txt files instead of create the for loop doomed to break at some point.
 - ... Many useful things I didn't take the time to do.
+
+- And learn Git...
